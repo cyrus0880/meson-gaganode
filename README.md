@@ -2,7 +2,7 @@
 ---
 An unofficial Docker Image for Meson Network Mining Available on Docker Hub
 
-Source code available at: (GitHub)[https://github.com/cyrus0880/meson-gaganode]
+Source code available at: [GitHub](https://github.com/cyrus0880/meson-gaganode)
 
 ```
 ### supports Raspberry Pi 2 and above! (ARMv7 /ARMv8 / ARM64 / AMD64) ###
